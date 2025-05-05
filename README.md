@@ -1,4 +1,4 @@
-# API CEP ViaCEP
+# CADASTRA ENDEREÇO
 
 Este projeto tem como objetivo integrar com a API pública ViaCEP para consultar endereços a partir de CEPs informados via terminal e salvar as informações relevantes em um arquivo `.json` chamado `Endereco.json`. As informações coletadas incluem logradouro, bairro, cidade, estado e outros dados fornecidos pela API.
 
